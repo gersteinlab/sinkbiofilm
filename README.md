@@ -21,6 +21,8 @@
 
 
 <!-- PROJECT LOGO -->
+[![DOI](https://zenodo.org/badge/1218529056.svg)](https://doi.org/10.5281/zenodo.19702190)
+
 <br />
 <div align="center">
   <a href="https://github.com/katebowie/virasept">
